@@ -3,7 +3,7 @@
 A simple and interactive Mini Job Board web application built with HTML, CSS, and JavaScript.  
 Users can add job listings and view them instantly in a clean UI.
 
-🚀 Live Demo: https://your-username.github.io/job-board/
+🚀 Live Demo: https://claytonpoggenpoel313-tech.github.io/job-board/
 
 ---
 
